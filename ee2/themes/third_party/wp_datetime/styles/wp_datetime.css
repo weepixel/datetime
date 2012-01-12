@@ -1,0 +1,9 @@
+.ui-timepicker-div .ui-widget-header{ margin-bottom: 8px; }
+.ui-timepicker-div dl{ text-align: left; }
+.ui-timepicker-div dl dt{ height: 25px; }
+.ui-timepicker-div dl dd{ margin: -25px 0 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+
+.ui-widget-header { border: 1px solid #aaaaaa; background: #8ea1ad url(/themes/cp_themes/default/images/ui-bg_highlight-soft_40_8ea1ad_1x100.png) 50% 50% repeat-x; color: #ffffff; font-weight: bold; }
+
+.ui-timepicker-div { z-index:10 !important; }
