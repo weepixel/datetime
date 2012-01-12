@@ -193,7 +193,7 @@ class Wp_datetime_ft extends EE_Fieldtype {
 
 }
 
-// END Date_ft class
+// END Wp_datetime_ft class
 
-/* End of file ft.date.php */
-/* Location: ./system/expressionengine/fieldtypes/ft.date.php */
+/* End of file ft.wp_datetime.php */
+/* Location: ./system/expressionengine/third_party/wp_datetime/ft.wp_datetime.php */
